@@ -28,8 +28,7 @@ namespace test5
                 EndPoint = apiURLTextbox.Text
             };
 
-            DebugOutput("Rest client created");
-
+            //Initiating string to eventually hold the response
             string strResponse = string.Empty;
 
             strResponse = rClient.MakeRequest();

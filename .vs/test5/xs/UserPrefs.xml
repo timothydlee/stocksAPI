@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{AF3E70E2-309B-4B67-BF15-B83487942F1B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="test5/Form1.cs">
-    <Files>
-      <File FileName="test5/Form1.cs" Line="25" Column="90" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -1,0 +1,20 @@
+C:/Users/timot/Desktop/test5/test5/bin/Debug/test5.exe.config
+C:/Users/timot/Desktop/test5/test5/bin/Debug/test5.exe
+C:/Users/timot/Desktop/test5/test5/bin/Debug/test5.pdb
+C:/Users/timot/Desktop/test5/test5/obj/Debug/test5.csprojResolveAssemblyReference.cache
+C:/Users/timot/Desktop/test5/test5/obj/Debug/test5.Form1.resources
+C:/Users/timot/Desktop/test5/test5/obj/Debug/test5.Properties.Resources.resources
+C:/Users/timot/Desktop/test5/test5/obj/Debug/test5.csproj.GenerateResource.Cache
+C:/Users/timot/Desktop/test5/test5/obj/Debug/test5.csproj.CoreCompileInputs.cache
+C:/Users/timot/Desktop/test5/test5/obj/Debug/test5.exe
+C:/Users/timot/Desktop/test5/test5/obj/Debug/test5.pdb
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/bin/Debug/test5.exe.config
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/bin/Debug/test5.exe
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/bin/Debug/test5.pdb
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/obj/Debug/test5.csprojResolveAssemblyReference.cache
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/obj/Debug/test5.Form1.resources
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/obj/Debug/test5.Properties.Resources.resources
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/obj/Debug/test5.csproj.GenerateResource.Cache
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/obj/Debug/test5.csproj.CoreCompileInputs.cache
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/obj/Debug/test5.exe
+/Users/timothylee/Google Drive/Coding/Project/test5/test5/obj/Debug/test5.pdb
